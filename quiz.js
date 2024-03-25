@@ -1,4 +1,3 @@
-quiz.js
 var mtScore = 0
 var enScore = 0
 
