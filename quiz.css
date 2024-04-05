@@ -4,7 +4,9 @@ body {
   align-items: center;
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
+  background-color: #000000;
 }
+
 
 /* STYLE TEXT */
 h1 {
@@ -16,10 +18,12 @@ h1 {
 h2 {
   text-align: center;
   margin-top: 2em; 
+  color: #FFFFFF;
 }
 
 p {
   text-align: center;
+  color: #FFFFFF;
 }
 /* STYLE FLEX CONTAINER */
 .question {
