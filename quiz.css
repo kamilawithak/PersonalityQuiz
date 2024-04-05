@@ -38,6 +38,11 @@ p {
   height: 10em;
 }
 
+/*#restart {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
 /* STYLE BUTTON */
 button {
  align-items: center;
