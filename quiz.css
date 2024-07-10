@@ -1,4 +1,5 @@
 /* STYLE SECTIONING TAGS */
+
 body {
   justify-content: center;
   align-items: center;
@@ -9,6 +10,7 @@ body {
 
 
 /* STYLE TEXT */
+
 h1 {
   text-align: center;
   font-style: italic;
@@ -25,7 +27,9 @@ p {
   text-align: center;
   color: #FFFFFF;
 }
+
 /* STYLE FLEX CONTAINER */
+
 .question {
   display: flex;
   justify-content: center;
@@ -33,11 +37,13 @@ p {
 }
   
 /* STYLE FLEX ITEM */
+
 .answer-choice {
   margin: 5px;
 }
 
 /* STYLE IMAGES */
+
 .answer-choice img {
   height: 10em;
 }
@@ -47,7 +53,9 @@ p {
   justify-content: center;
   text-align: center;
 }
+
 /* STYLE BUTTON */
+
 button {
  align-items: center;
  justify-content: center;
